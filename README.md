@@ -1,3 +1,5 @@
+[![Deploy](https://get.pulumi.com/new/button.svg)](https://app.pulumi.com/new?template=https://github.com/joeduffy/pulumi-aws-sagemaker-huggingface-llm/blob/master/README.md)
+
 # Hugging Face LLM on AWS SageMaker using Pulumi
 
 This repo contains a simple `HuggingFaceLlm` component, defined in Python using Pulumi, which configures
