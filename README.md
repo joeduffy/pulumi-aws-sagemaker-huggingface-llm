@@ -51,7 +51,7 @@ Duration: 7m15s
 ```
 
 
-This component is not yet a multi-language component so can only be used in Python. It also is not published to PyPi,
-although once it has been published, consuming it will be as easy as the example above. These are both future todos.
+There are two todos. This is not yet a multi-language component so can only be used in Python. It's also not
+distributed in any package managers yet, so you need to bundle the code.
 
 This repo was inspired by https://github.com/philschmid/aws-sagemaker-huggingface-llm.
