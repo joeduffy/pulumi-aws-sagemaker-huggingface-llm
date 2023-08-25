@@ -3,6 +3,9 @@
 This repo contains a simple `HuggingFaceLlm` component, defined in Python using Pulumi, which configures
 and deploys the necessary machinery to run a Hugging Face LLM model to Amazon SageMaker. It uses the Hugging Face
 LLM Inference Container for Amazon SageMaker [announced here](https://huggingface.co/blog/sagemaker-huggingface-llm).
+This leverages [Amazon Deep Learning Containers (DLCs)](
+https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/what-is-dlc.html) which are pre-built Docker
+containers for TensorFlow, PyTorch, etc.
 
 An example of using this component is included in the `__main__.py` file:
 
