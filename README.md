@@ -1,4 +1,4 @@
-# Deploy Hugging Face LLM to AWS SageMaker using Pulumi
+# Hugging Face LLM on AWS SageMaker using Pulumi
 
 This repo contains a simple `HuggingFaceLlm` component, defined in Python using Pulumi, which configures
 and deploys the necessary machinery to run a Hugging Face LLM model to Amazon SageMaker. It uses the Hugging Face
